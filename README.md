@@ -42,7 +42,7 @@ Add description, name, etc.
 
 **Step 3:** 
 Create new addresses, one for my university, one with biometric access / KYC.
-Then mint a Soulbound NFT from the address given to the Universit to myself alongside a visual of my diploma.
+Then mint a Soulbound NFT from the address given to the Universiy to myself alongside a visual of my diploma.
 
 **Step 4:** 
 Create platform with a preset for PDF entry of diploma/achievement, student information and wallet, minting an NFT through the platform by any user.
